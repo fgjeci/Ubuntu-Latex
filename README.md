@@ -1,4 +1,4 @@
-<h1 align="center">Compiling Latex thesis style documents using VS Code (tested in Ubuntu)</h1>
+<h1 align="center">Building Latex thesis style documents using VS Code (tested in Ubuntu)</h1>
 <p align="center">
   <em>Don't forget to give this repo a star ⭐️</em>
   <br>
