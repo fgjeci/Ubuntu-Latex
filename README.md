@@ -40,6 +40,8 @@ Ubuntu users can use the command
 sudo apt-get install miktex
 ```
 
+You can check the [Miktex Website](https://miktex.org/howto/install-miktex-unx) for the installation details 
+
 <h3>Install the LaTeX Workshop extension in VS Code </h3>
 
 The Publisher of this extension is James Yu. You can find it by searching for <b>LaTeX Workshop</b> in the <i>Extensions</i> option in the menu on the left of the VS Code IDE. The <i>Extensions</i> option is also activated by using the keyboard shortcuts <b>Ctrl+Shift+X</b> in Ubuntu. 
